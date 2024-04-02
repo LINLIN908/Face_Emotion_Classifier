@@ -10,7 +10,7 @@ While utilizing the face_classification project by Octavio Arriaga and his team 
 
 # Key Features
 
-* Real-time Emotion Recognition: Recognize the user's emotion in eal-time.  
+* Emotion Recognition: Recognize the user's emotion in real-time.  
 
 * Data Logging: Log the emotion recognition results into a CSV file for further analysis or visualization.
 
