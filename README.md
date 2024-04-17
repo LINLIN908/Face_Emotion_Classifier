@@ -1,5 +1,5 @@
 # Introduction
-This project provides a code example for real-time recognition of user emotions and logging the data into a CSV file. The code is implemented based on fer2013 datasets with a keras CNN model and openCV to achieve emotion recognition functionality. The test accuracy stands at 66%.  
+This project provides a code example for real-time recognition of user emotions and logging the data into a CSV file. The code is implemented based on fer2013 datasets with a keras CNN model and openCV to achieve emotion recognition functionality.  
 
 # Background
 While utilizing the face_classification project by Octavio Arriaga and his team on GitHub (https://github.com/oarriaga/face_classification), we found the program to be highly practical and efficient. However, we encountered some issues:
